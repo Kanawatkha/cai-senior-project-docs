@@ -1,0 +1,12 @@
+# ไฟล์ชั่วคราวของ Word (สร้างตอนเปิดไฟล์ค้างไว้)
+~$*
+*.tmp
+~WRL*.tmp
+
+# ไฟล์ตั้งค่าเฉพาะเครื่องของ Claude Code
+.claude/settings.local.json
+
+# ไฟล์ระบบ
+Thumbs.db
+desktop.ini
+.DS_Store
