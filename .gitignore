@@ -6,6 +6,9 @@
 # ไฟล์ตั้งค่าเฉพาะเครื่องของ Claude Code
 .claude/settings.local.json
 
+# PDF งานวิจัยที่ดาวน์โหลดมาอ่าน (มีลิขสิทธิ์ ไม่เผยแพร่ใน repo)
+research/papers/
+
 # ไฟล์ระบบ
 Thumbs.db
 desktop.ini
